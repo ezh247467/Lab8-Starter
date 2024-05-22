@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "name": "Lab8-Starter",
+    "short_name": "Ethan Huang",
+    "description": "Lab8 for CSE110",
+    "start_url": "/lab8.com",
+    "display": "fullscreen",
+    "background_color": "white",
+    "theme_color": "black",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
