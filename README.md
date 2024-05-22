@@ -5,3 +5,6 @@ Graceful degradation and Service Workers are related because we have the more ro
 like having slow or no internet connection, we have Service Workers that can save those requests and the application can continue to handle the lower levels with grace.
 
 [GitHub Pages](https://ezh247467.github.io/Lab8-Starter/)
+
+**PWA**
+![](assets/images/pwa.png)
